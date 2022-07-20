@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/VitorSmelo021">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorSmelo021&theme=VitorSmelo021github_dark&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorSmelo021&theme=gitjub_dark&show_icons=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSmelo021&layout=compact&langs_count=7&theme=VitorSmelo021"/>
     </div>
